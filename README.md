@@ -8,3 +8,7 @@ Text Classification Dataset for Turkish Language
 * Data is collected from Turkish web sites
 * the data contains the comments of the products and product categories
 * Baseline algoritm , Naive Bayes gets %84 F1 score as follows
+
+
+Download Link
+https://www.kaggle.com/savasy/multiclass-classification-data-for-turkish-tc32
